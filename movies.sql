@@ -170,3 +170,11 @@ INSERT INTO ratings (rating) VALUES ('PG13');
 INSERT INTO bonuss (bonus) VALUES ('Digital bonus');
 INSERT INTO platforms (platform) VALUES ('Amazon, dvd');
 INSERT INTO genres (genre) VALUES ('Fantasy/Sci-Fi');
+
+-- Iron Man 3
+INSERT INTO years (year) VALUES ('2013');
+INSERT INTO titles (title) VALUES ('Iron Man 3');
+INSERT INTO ratings (rating) VALUES ('PG13');
+INSERT INTO bonuss (bonus) VALUES ('Bonus Features');
+INSERT INTO platforms (platform) VALUES ('Amazon, dvd');
+INSERT INTO genres (genre) VALUES ('Sci-Fi/Action');

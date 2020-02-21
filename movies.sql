@@ -154,3 +154,11 @@ INSERT INTO ratings (rating) VALUES ('PG');
 INSERT INTO bonuss (bonus) VALUES ('none');
 INSERT INTO platforms (platform) VALUES ('Amazon');
 INSERT INTO genres (genre) VALUES ('Fantasy/Sci-Fi');
+
+-- Olympus Has Fallen
+INSERT INTO years (year) VALUES ('2013');
+INSERT INTO titles (title) VALUES ('Olympus Has Fallen');
+INSERT INTO ratings (rating) VALUES ('R');
+INSERT INTO bonuss (bonus) VALUES ('none');
+INSERT INTO platforms (platform) VALUES ('Amazon');
+INSERT INTO genres (genre) VALUES ('Thriller/Action');

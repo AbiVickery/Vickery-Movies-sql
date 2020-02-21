@@ -58,3 +58,11 @@ INSERT INTO ratings (rating) VALUES ('PG');
 INSERT INTO bonuss (bonus) VALUES ('none');
 INSERT INTO platforms (platform) VALUES ('Amazon');
 INSERT INTO genres (genre) VALUES ('Adventure/comedy');
+
+-- X-Men
+INSERT INTO years (year) VALUES ('2000');
+INSERT INTO titles (title) VALUES ('X-Men');
+INSERT INTO ratings (rating) VALUES ('PG13');
+INSERT INTO bonuss (bonus) VALUES ('none');
+INSERT INTO platforms (platform) VALUES ('Amazon');
+INSERT INTO genres (genre) VALUES ('Fantasy/Sci-Fi');

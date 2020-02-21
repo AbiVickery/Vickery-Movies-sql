@@ -98,3 +98,11 @@ INSERT INTO ratings (rating) VALUES ('PG13');
 INSERT INTO bonuss (bonus) VALUES ('none');
 INSERT INTO platforms (platform) VALUES ('Amazon');
 INSERT INTO genres (genre) VALUES ('Action/Outlaw Biker');
+
+-- Kung Fu Panda
+INSERT INTO years (year) VALUES ('2008');
+INSERT INTO titles (title) VALUES ('Kung Fu Panda');
+INSERT INTO ratings (rating) VALUES ('PG');
+INSERT INTO bonuss (bonus) VALUES ('none');
+INSERT INTO platforms (platform) VALUES ('Amazon');
+INSERT INTO genres (genre) VALUES ('Action/Adventure');

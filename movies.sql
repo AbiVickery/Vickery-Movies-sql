@@ -146,3 +146,11 @@ INSERT INTO ratings (rating) VALUES ('PG13');
 INSERT INTO bonuss (bonus) VALUES ('Extended Edition');
 INSERT INTO platforms (platform) VALUES ('Amazon, dvd');
 INSERT INTO genres (genre) VALUES ('Fantasy/Adventure');
+
+-- Wreck-It Ralph
+INSERT INTO years (year) VALUES ('2012');
+INSERT INTO titles (title) VALUES ('Wreck-It Ralph');
+INSERT INTO ratings (rating) VALUES ('PG');
+INSERT INTO bonuss (bonus) VALUES ('none');
+INSERT INTO platforms (platform) VALUES ('Amazon');
+INSERT INTO genres (genre) VALUES ('Fantasy/Sci-Fi');

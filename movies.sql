@@ -24,7 +24,7 @@ CREATE TABLE title (
 
 CREATE TABLE genre (
     id int auto_increment primary key,
-    genre VARCHAR(10)
+    genre VARCHAR(25)
 );
 
 CREATE TABLE rating (
@@ -37,7 +37,15 @@ CREATE TABLE bonus (
     bonus char(7)
 );
 
-CREATE TABLE format (
+CREATE TABLE platform (
     id int auto_increment primary key,
-    format VARCHAR(12)
+    platform VARCHAR(12)
 );
+-- Amazon movies
+-- Die Hard
+INSERT INTO years (year) VALUES ('1988');
+INSERT INTO titles (title) VALUES ('Die Hard');
+INSERT INTO ratings (rating) VALUES ('R');
+INSERT INTO bonuss (bonus) VALUES ('none');
+INSERT INTO platforms (platform) VALUES ('Amazon');
+INSERT INTO genres (genre) VALUES ('Thriller/Action');

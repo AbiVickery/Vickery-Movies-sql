@@ -106,3 +106,11 @@ INSERT INTO ratings (rating) VALUES ('PG');
 INSERT INTO bonuss (bonus) VALUES ('none');
 INSERT INTO platforms (platform) VALUES ('Amazon');
 INSERT INTO genres (genre) VALUES ('Action/Adventure');
+
+-- Bolt
+INSERT INTO years (year) VALUES ('2008');
+INSERT INTO titles (title) VALUES ('Bolt');
+INSERT INTO ratings (rating) VALUES ('PG');
+INSERT INTO bonuss (bonus) VALUES ('none');
+INSERT INTO platforms (platform) VALUES ('Amazon, Netflix');
+INSERT INTO genres (genre) VALUES ('Drama/Adventure');

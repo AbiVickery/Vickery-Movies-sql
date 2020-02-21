@@ -122,3 +122,11 @@ INSERT INTO ratings (rating) VALUES ('PG13');
 INSERT INTO bonuss (bonus) VALUES ('Bonus Content');
 INSERT INTO platforms (platform) VALUES ('Amazon, dvd');
 INSERT INTO genres (genre) VALUES ('Sci-Fi/Thriller');
+
+-- Iron Man 2
+INSERT INTO years (year) VALUES ('2010');
+INSERT INTO titles (title) VALUES ('Iron Man 2');
+INSERT INTO ratings (rating) VALUES ('PG13');
+INSERT INTO bonuss (bonus) VALUES ('Bonus Content');
+INSERT INTO platforms (platform) VALUES ('Amazon');
+INSERT INTO genres (genre) VALUES ('Sci-Fi/Action');

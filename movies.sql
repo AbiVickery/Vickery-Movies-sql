@@ -83,3 +83,18 @@ INSERT INTO bonuss (bonus) VALUES ('none');
 INSERT INTO platforms (platform) VALUES ('Amazon');
 INSERT INTO genres (genre) VALUES ('Fantasy/Adventure');
 
+-- Elf
+INSERT INTO years (year) VALUES ('2003');
+INSERT INTO titles (title) VALUES ('Elf');
+INSERT INTO ratings (rating) VALUES ('PG');
+INSERT INTO bonuss (bonus) VALUES ('Bonus Features');
+INSERT INTO platforms (platform) VALUES ('Amazon, dvd');
+INSERT INTO genres (genre) VALUES ('Fantasy/Romance');
+
+-- Wild Hogs
+INSERT INTO years (year) VALUES ('2006');
+INSERT INTO titles (title) VALUES ('Wild Hogs');
+INSERT INTO ratings (rating) VALUES ('PG13');
+INSERT INTO bonuss (bonus) VALUES ('none');
+INSERT INTO platforms (platform) VALUES ('Amazon');
+INSERT INTO genres (genre) VALUES ('Action/Outlaw Biker');

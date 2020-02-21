@@ -66,3 +66,20 @@ INSERT INTO ratings (rating) VALUES ('PG13');
 INSERT INTO bonuss (bonus) VALUES ('none');
 INSERT INTO platforms (platform) VALUES ('Amazon');
 INSERT INTO genres (genre) VALUES ('Fantasy/Sci-Fi');
+
+-- LotR
+INSERT INTO years (year) VALUES ('2001');
+INSERT INTO titles (title) VALUES ('LotR Fellowship of the ring');
+INSERT INTO ratings (rating) VALUES ('PG13');
+INSERT INTO bonuss (bonus) VALUES ('extended');
+INSERT INTO platforms (platform) VALUES ('Amazon, dvd');
+INSERT INTO genres (genre) VALUES ('Fantasy/Action');
+
+-- Ice Age
+INSERT INTO years (year) VALUES ('2002');
+INSERT INTO titles (title) VALUES ('Ice Age');
+INSERT INTO ratings (rating) VALUES ('PG');
+INSERT INTO bonuss (bonus) VALUES ('none');
+INSERT INTO platforms (platform) VALUES ('Amazon');
+INSERT INTO genres (genre) VALUES ('Fantasy/Adventure');
+

@@ -114,3 +114,11 @@ INSERT INTO ratings (rating) VALUES ('PG');
 INSERT INTO bonuss (bonus) VALUES ('none');
 INSERT INTO platforms (platform) VALUES ('Amazon, Netflix');
 INSERT INTO genres (genre) VALUES ('Drama/Adventure');
+
+-- Iron Man
+INSERT INTO years (year) VALUES ('2008');
+INSERT INTO titles (title) VALUES ('Iron Man');
+INSERT INTO ratings (rating) VALUES ('PG13');
+INSERT INTO bonuss (bonus) VALUES ('Bonus Content');
+INSERT INTO platforms (platform) VALUES ('Amazon, dvd');
+INSERT INTO genres (genre) VALUES ('Sci-Fi/Thriller');

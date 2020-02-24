@@ -362,3 +362,11 @@ INSERT INTO ratings (rating) VALUES ('PG13');
 INSERT INTO bonuss (bonus) VALUES ('none');
 INSERT INTO platforms (platform) VALUES ('Amazon');
 INSERT INTO genres (genre) VALUES ('Fantasy/Sci-Fi');
+
+--Avengers Endgame
+INSERT INTO years (year) VALUES ('2019');
+INSERT INTO titles (title) VALUES ('Avengers Endgame');
+INSERT INTO ratings (rating) VALUES ('PG13');
+INSERT INTO bonuss (bonus) VALUES ('Bonus');
+INSERT INTO platforms (platform) VALUES ('Amazon');
+INSERT INTO genres (genre) VALUES ('Fantasy/Sci-Fi');

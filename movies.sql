@@ -242,3 +242,19 @@ INSERT INTO ratings (rating) VALUES ('PG13');
 INSERT INTO bonuss (bonus) VALUES ('Bonus Features');
 INSERT INTO platforms (platform) VALUES ('Amazon');
 INSERT INTO genres (genre) VALUES ('Fantasy/Sci-Fi');
+
+-- Captain America Civil War
+INSERT INTO years (year) VALUES ('2016');
+INSERT INTO titles (title) VALUES ('Captain America Civil War');
+INSERT INTO ratings (rating) VALUES ('PG13');
+INSERT INTO bonuss (bonus) VALUES ('Bonus Features');
+INSERT INTO platforms (platform) VALUES ('Amazon');
+INSERT INTO genres (genre) VALUES ('Sci-Fi/Thriller');
+
+-- Rogue One
+INSERT INTO years (year) VALUES ('2016');
+INSERT INTO titles (title) VALUES ('Rogue One');
+INSERT INTO ratings (rating) VALUES ('PG13');
+INSERT INTO bonuss (bonus) VALUES ('Bonus Content');
+INSERT INTO platforms (platform) VALUES ('Amazon');
+INSERT INTO genres (genre) VALUES ('Sci-Fi/Action');

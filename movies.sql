@@ -314,3 +314,11 @@ INSERT INTO ratings (rating) VALUES ('PG13');
 INSERT INTO bonuss (bonus) VALUES ('none');
 INSERT INTO platforms (platform) VALUES ('Amazon');
 INSERT INTO genres (genre) VALUES ('Fantasy/Sci-Fi');
+
+-- Thor ragnarok
+INSERT INTO years (year) VALUES ('2017');
+INSERT INTO titles (title) VALUES ('Thor Ragnarok');
+INSERT INTO ratings (rating) VALUES ('PG13');
+INSERT INTO bonuss (bonus) VALUES ('Bonus Content');
+INSERT INTO platforms (platform) VALUES ('Amazon');
+INSERT INTO genres (genre) VALUES ('Fantasy/Sci-Fi');

@@ -322,3 +322,11 @@ INSERT INTO ratings (rating) VALUES ('PG13');
 INSERT INTO bonuss (bonus) VALUES ('Bonus Content');
 INSERT INTO platforms (platform) VALUES ('Amazon');
 INSERT INTO genres (genre) VALUES ('Fantasy/Sci-Fi');
+
+-- Jurassic world fallen kingdom
+INSERT INTO years (year) VALUES ('2017');
+INSERT INTO titles (title) VALUES ('Jurassic World Fallen Kingdom');
+INSERT INTO ratings (rating) VALUES ('none');
+INSERT INTO bonuss (bonus) VALUES ('PG13');
+INSERT INTO platforms (platform) VALUES ('Amazon');
+INSERT INTO genres (genre) VALUES ('Sci-Fi/Action');

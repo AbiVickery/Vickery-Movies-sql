@@ -267,6 +267,14 @@ INSERT INTO bonuss (bonus) VALUES ('Extended Cut');
 INSERT INTO platforms (platform) VALUES ('Amazon');
 INSERT INTO genres (genre) VALUES ('Fantasy/Sci-Fi');
 
+-- Jason Bourne
+INSERT INTO years (year) VALUES ('2016');
+INSERT INTO titles (title) VALUES ('Jason Bourne');
+INSERT INTO ratings (rating) VALUES ('PG13');
+INSERT INTO bonuss (bonus) VALUES ('none');
+INSERT INTO platforms (platform) VALUES ('Amazon');
+INSERT INTO genres (genre) VALUES ('Thriller/Action');
+
 -- Star wars the last jedi
 INSERT INTO years (year) VALUES ('2017');
 INSERT INTO titles (title) VALUES ('Star Wars VIII');

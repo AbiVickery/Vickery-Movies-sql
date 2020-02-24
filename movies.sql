@@ -330,3 +330,11 @@ INSERT INTO ratings (rating) VALUES ('none');
 INSERT INTO bonuss (bonus) VALUES ('PG13');
 INSERT INTO platforms (platform) VALUES ('Amazon');
 INSERT INTO genres (genre) VALUES ('Sci-Fi/Action');
+
+--Black Panther
+INSERT INTO years (year) VALUES ('2018');
+INSERT INTO titles (title) VALUES ('Black Panther');
+INSERT INTO ratings (rating) VALUES ('PG13');
+INSERT INTO bonuss (bonus) VALUES ('Bonus Content');
+INSERT INTO platforms (platform) VALUES ('Amazon');
+INSERT INTO genres (genre) VALUES ('Fantasy/Sci-Fi');

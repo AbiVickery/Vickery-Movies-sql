@@ -370,3 +370,11 @@ INSERT INTO ratings (rating) VALUES ('PG13');
 INSERT INTO bonuss (bonus) VALUES ('Bonus');
 INSERT INTO platforms (platform) VALUES ('Amazon');
 INSERT INTO genres (genre) VALUES ('Fantasy/Sci-Fi');
+
+--Spiderman far from home
+INSERT INTO years (year) VALUES ('2019');
+INSERT INTO titles (title) VALUES ('Spider-Man far from home');
+INSERT INTO ratings (rating) VALUES ('PG13');
+INSERT INTO bonuss (bonus) VALUES ('Bonus');
+INSERT INTO platforms (platform) VALUES ('Amazon, dvd');
+INSERT INTO genres (genre) VALUES ('Fantasy/Sci-Fi');

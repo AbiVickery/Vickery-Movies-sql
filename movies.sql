@@ -298,3 +298,11 @@ INSERT INTO ratings (rating) VALUES ('PG13');
 INSERT INTO bonuss (bonus) VALUES ('Bonus content');
 INSERT INTO platforms (platform) VALUES ('Amazon, dvd');
 INSERT INTO genres (genre) VALUES ('Fantasy/Sci-Fi');
+
+-- Guardians of the galaxy vol2
+INSERT INTO years (year) VALUES ('2017');
+INSERT INTO titles (title) VALUES ('Guardians Of The Galaxy Vol2');
+INSERT INTO ratings (rating) VALUES ('PG13');
+INSERT INTO bonuss (bonus) VALUES ('Bonus Features');
+INSERT INTO platforms (platform) VALUES ('Amazon');
+INSERT INTO genres (genre) VALUES ('Fantasy/Sci-Fi');

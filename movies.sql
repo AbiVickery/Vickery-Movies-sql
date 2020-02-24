@@ -290,3 +290,11 @@ INSERT INTO ratings (rating) VALUES ('PG13');
 INSERT INTO bonuss (bonus) VALUES ('Bonus Content');
 INSERT INTO platforms (platform) VALUES ('Amazon');
 INSERT INTO genres (genre) VALUES ('Action/Comedy');
+
+-- Spiderman homecoming
+INSERT INTO years (year) VALUES ('2017');
+INSERT INTO titles (title) VALUES ('Spider-Man Homecoming');
+INSERT INTO ratings (rating) VALUES ('PG13');
+INSERT INTO bonuss (bonus) VALUES ('Bonus content');
+INSERT INTO platforms (platform) VALUES ('Amazon, dvd');
+INSERT INTO genres (genre) VALUES ('Fantasy/Sci-Fi');

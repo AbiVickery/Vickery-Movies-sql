@@ -202,3 +202,11 @@ INSERT INTO ratings (rating) VALUES ('PG');
 INSERT INTO bonuss (bonus) VALUES ('Bonus Features');
 INSERT INTO platforms (platform) VALUES ('Amazon');
 INSERT INTO genres (genre) VALUES ('Fantasy/Action');
+
+-- Big Hero 6
+INSERT INTO years (year) VALUES ('2014');
+INSERT INTO titles (title) VALUES ('Big Hero 6');
+INSERT INTO ratings (rating) VALUES ('PG');
+INSERT INTO bonuss (bonus) VALUES ('Bonus Features');
+INSERT INTO platforms (platform) VALUES ('Amazon');
+INSERT INTO genres (genre) VALUES ('Sci-Fi/Action');

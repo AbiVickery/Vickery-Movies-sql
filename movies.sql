@@ -226,3 +226,11 @@ INSERT INTO ratings (rating) VALUES ('PG13');
 INSERT INTO bonuss (bonus) VALUES ('none');
 INSERT INTO platforms (platform) VALUES ('Amazon, googleplay, dvd?');
 INSERT INTO genres (genre) VALUES ('Sci-Fi/Thriller');
+
+-- Avengers age of ultron
+INSERT INTO years (year) VALUES ('2015');
+INSERT INTO titles (title) VALUES ('Avengers Age of Ultron');
+INSERT INTO ratings (rating) VALUES ('PG13');
+INSERT INTO bonuss (bonus) VALUES ('Bonus Features');
+INSERT INTO platforms (platform) VALUES ('Amazon');
+INSERT INTO genres (genre) VALUES ('Sci-Fi/Action');

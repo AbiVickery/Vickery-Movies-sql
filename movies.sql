@@ -210,3 +210,19 @@ INSERT INTO ratings (rating) VALUES ('PG');
 INSERT INTO bonuss (bonus) VALUES ('Bonus Features');
 INSERT INTO platforms (platform) VALUES ('Amazon');
 INSERT INTO genres (genre) VALUES ('Sci-Fi/Action');
+
+-- Ant-Man
+INSERT INTO years (year) VALUES ('2015');
+INSERT INTO titles (title) VALUES ('Ant-Man');
+INSERT INTO ratings (rating) VALUES ('PG13');
+INSERT INTO bonuss (bonus) VALUES ('Bonus Features');
+INSERT INTO platforms (platform) VALUES ('Amazon');
+INSERT INTO genres (genre) VALUES ('Thriller/Sci-Fi');
+
+-- Jurassic World
+INSERT INTO years (year) VALUES ('2015');
+INSERT INTO titles (title) VALUES ('Jurassic World');
+INSERT INTO ratings (rating) VALUES ('PG13');
+INSERT INTO bonuss (bonus) VALUES ('none');
+INSERT INTO platforms (platform) VALUES ('Amazon, googleplay, dvd?');
+INSERT INTO genres (genre) VALUES ('Sci-Fi/Thriller');

@@ -266,3 +266,11 @@ INSERT INTO ratings (rating) VALUES ('PG13');
 INSERT INTO bonuss (bonus) VALUES ('Extended Cut');
 INSERT INTO platforms (platform) VALUES ('Amazon');
 INSERT INTO genres (genre) VALUES ('Fantasy/Sci-Fi');
+
+-- Star wars the last jedi
+INSERT INTO years (year) VALUES ('2017');
+INSERT INTO titles (title) VALUES ('Star Wars VIII');
+INSERT INTO ratings (rating) VALUES ('PG13');
+INSERT INTO bonuss (bonus) VALUES ('Bonus Content');
+INSERT INTO platforms (platform) VALUES ('Amazon');
+INSERT INTO genres (genre) VALUES ('2017');

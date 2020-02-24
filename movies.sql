@@ -178,3 +178,11 @@ INSERT INTO ratings (rating) VALUES ('PG13');
 INSERT INTO bonuss (bonus) VALUES ('Bonus Features');
 INSERT INTO platforms (platform) VALUES ('Amazon, dvd');
 INSERT INTO genres (genre) VALUES ('Sci-Fi/Action');
+
+-- Frozen
+INSERT INTO years (year) VALUES ('2013');
+INSERT INTO titles (title) VALUES ('Frozen');
+INSERT INTO ratings (rating) VALUES ('PG');
+INSERT INTO bonuss (bonus) VALUES ('Bonus Features');
+INSERT INTO platforms (platform) VALUES ('Amazon');
+INSERT INTO genres (genre) VALUES ('Fantasy/ComedyMusic');

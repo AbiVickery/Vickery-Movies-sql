@@ -6,7 +6,7 @@ CREATE TABLE movies(
     id int auto_increment primary key,
     year int(4),
     title varchar(50),
-    genre varchar(10),
+    genre_id varchar(10),
     rating char(5),
     bonus char(7),
     format varchar(12)

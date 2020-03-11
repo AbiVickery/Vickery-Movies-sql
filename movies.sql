@@ -5,10 +5,10 @@ USE VickeryMovies;
 CREATE TABLE movies(
     id int auto_increment primary key,
     year int(4),
-    title varchar(50),
+    title_id varchar(50),
     genre_id varchar(10),
-    rating char(5),
-    bonus char(7),
+    rating_id char(5),
+    bonus_id char(7),
     format varchar(12)
 );
 
@@ -44,12 +44,12 @@ CREATE TABLE platform (
 -- Amazon movies
 
 -- Die Hard
-INSERT INTO years (year) VALUES ('1988');
-INSERT INTO titles (title) VALUES ('Die Hard');
-INSERT INTO ratings (rating) VALUES ('R');
-INSERT INTO bonuss (bonus) VALUES ('none');
-INSERT INTO platforms (platform) VALUES ('Amazon');
-INSERT INTO genres (genre) VALUES ('Thriller/Action');
+INSERT INTO year (year) VALUES ('1988');
+INSERT INTO title (title) VALUES ('Die Hard');
+INSERT INTO rating (rating) VALUES ('R');
+INSERT INTO bonus (bonus) VALUES ('none');
+INSERT INTO platform (platform) VALUES ('Amazon');
+INSERT INTO genre_id (genre) VALUES ('Thriller/Action');
 
 -- Home Alone
 INSERT INTO years (year) VALUES ('1990');
